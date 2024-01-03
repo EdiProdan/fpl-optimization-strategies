@@ -1,0 +1,5 @@
+{
+  "max_number_per_position": {"GK": 2, "DEF": 5, "MID": 5, "FW": 3},
+  "starting_11_min": {"GK": 1, "DEF": 3, "MID": 3, "FW": 1},
+  "starting_11_max_per_position": {"GK": 1, "DEF": 5, "MID": 5, "FW": 3}
+}
