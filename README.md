@@ -1,7 +1,7 @@
 # fpl-optimization-strategies
 
 ## Description
-The "fpl-optimization-strategies" repository is a comprehensive solution for optimizing Fantasy Premier League (FPL) teams for a given gameweek. FPL enthusiasts and data-driven fantasy football managers can leverage three powerful optimization algorithms implemented in this repository: Greedy, GRASP (Greedy Randomized Adaptive Search Procedure) with Tabu Search, and Simulated Annealing.
+The "fpl-optimization-strategies" repository is a comprehensive solution for optimizing Fantasy Premier League (FPL) teams for a given gameweek as part of laboratory exercises for Heuristics Optimization Methods class. FPL enthusiasts and data-driven fantasy football managers can leverage three powerful optimization algorithms implemented in this repository: Greedy, GRASP (Greedy Randomized Adaptive Search Procedure) with Tabu Search, and Simulated Annealing.
 
 ### Key Features
 1. **Greedy Algorithm:** A straightforward, greedy approach to team optimization, making locally optimal choices at each step to build a competitive FPL squad.
