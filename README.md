@@ -9,6 +9,3 @@ The "fpl-optimization-strategies" repository is a comprehensive solution for opt
 2. **GRASP with Tabu Search:** The GRASP algorithm combines greedy construction with local search, enhanced by a Tabu Search mechanism to escape local optima. This ensures a more globally optimized FPL team.
 
 3. **Simulated Annealing:** Inspired by the annealing process in metallurgy, this algorithm introduces randomness to explore a wider solution space. The temperature parameter controls the acceptance of suboptimal solutions, allowing the algorithm to escape local minima and discover better team compositions.
-
-## License
-MIT License
